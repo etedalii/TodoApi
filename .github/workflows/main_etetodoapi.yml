@@ -53,4 +53,4 @@ jobs:
           app-name: 'EteTodoApi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A87D7984D6294302B0BCC394961EFDE0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BB00D6B2DDB43B782BD38BF381FCD96 }}
