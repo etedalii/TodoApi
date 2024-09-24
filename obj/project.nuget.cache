@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UezILW93WwMiaxDV8uIRLgzoChDLjzOCFnlOtJOmVrF5O0RbOmdvBvaegy+6o3czDpOEBZteGqQTBDI2kkDn4g==",
+  "dgSpecHash": "JEBQcT2zRohyRrc3hCc9Pc97mLzgU72yww3mMBUIEufwMeffAAeRgeXb4xyOWpS9JloCpfV4BsaeuVD51w1rHQ==",
   "success": true,
-  "projectFilePath": "/Users/etedali/projects/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/etedali/projects/todo/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/etedali/.nuget/packages/bogus/35.6.1/bogus.35.6.1.nupkg.sha512",
     "/Users/etedali/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",

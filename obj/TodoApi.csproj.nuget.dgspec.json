@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/etedali/projects/TodoApi/TodoApi.csproj": {}
+    "/Users/etedali/projects/todo/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/etedali/projects/TodoApi/TodoApi.csproj": {
+    "/Users/etedali/projects/todo/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/etedali/projects/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/etedali/projects/todo/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/etedali/projects/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/etedali/projects/todo/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/etedali/.nuget/packages/",
-        "outputPath": "/Users/etedali/projects/TodoApi/obj/",
+        "outputPath": "/Users/etedali/projects/todo/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/etedali/.nuget/NuGet/NuGet.Config"
