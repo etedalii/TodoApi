@@ -1,5 +1,6 @@
 using Bogus;
 using FakeItEasy;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TodoApi.Models;
 
@@ -7,6 +8,7 @@ namespace TodoApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[AllowAnonymous]
 public class ProductController : ControllerBase
 {
     [HttpGet]
